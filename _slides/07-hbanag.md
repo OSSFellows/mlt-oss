@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+MLT Summer 2k23
 
 ![octofez](https://octodex.github.com/images/octofez.png)
 {: .center}
